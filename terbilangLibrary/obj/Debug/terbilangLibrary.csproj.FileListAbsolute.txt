@@ -1,0 +1,6 @@
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\tugas2\terbilangWindowsFormsApp\terbilangLibrary\bin\Debug\terbilangLibrary.dll
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\tugas2\terbilangWindowsFormsApp\terbilangLibrary\bin\Debug\terbilangLibrary.pdb
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\tugas2\terbilangWindowsFormsApp\terbilangLibrary\obj\Debug\terbilangLibrary.csprojAssemblyReference.cache
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\tugas2\terbilangWindowsFormsApp\terbilangLibrary\obj\Debug\terbilangLibrary.csproj.CoreCompileInputs.cache
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\tugas2\terbilangWindowsFormsApp\terbilangLibrary\obj\Debug\terbilangLibrary.dll
+E:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT\PRAKTIKUM 1\TUGAS\tugas2\terbilangWindowsFormsApp\terbilangLibrary\obj\Debug\terbilangLibrary.pdb
